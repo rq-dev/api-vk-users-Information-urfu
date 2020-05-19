@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="API-VK-UsersInformation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/API_VK_UsersInformation_jar</output-path>
+    <root id="archive" name="API-VK-UsersInformation.jar">
+      <element id="module-output" name="API-VK-UsersInformation" />
+      <element id="extracted-dir" path="D:/Downloads/json-20190722.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
